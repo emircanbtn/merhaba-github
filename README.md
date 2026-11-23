@@ -9,3 +9,7 @@ Bu depo, GitHub'ı öğrenirken oluşturduğum ilk depo.
 ## Bu depoda neler var?
 
 -[ilk programım](kodlar/merhaba.cpp)
+
+## Hobilerim:
+-Futbol
+-Video oyun
