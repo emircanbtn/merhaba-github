@@ -3,8 +3,8 @@ Bu depo, GitHub'ı öğrenirken oluşturduğum ilk depo.
 
 ## Hakkımda
 
--**Bölüm:**...
--**En çok merak ettiğim konu:**...
+-**Bölüm:** Bilgisayar Mühendisliği
+-**En çok merak ettiğim konu:** Messiyi geçebilcek bir futbolcu çıkarmı?
 
 ## Bu depoda neler var?
 
